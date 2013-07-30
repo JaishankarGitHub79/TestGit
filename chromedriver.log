@@ -1,0 +1,68 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 D:\Jars\chromedriver.exe
+[0.875][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.875][INFO]:      Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
+[2.133][INFO]:      Connected to Chrome successfully. Version: 28.0.1500.72
+[2.156][FINE]:      Command received (/session/d5fa08a3b13710a0b267acc53eb5d42d)
+[2.157][FINE]:      Command finished (/session/d5fa08a3b13710a0b267acc53eb5d42d) with response {
+   "sessionId": "d5fa08a3b13710a0b267acc53eb5d42d",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "28.0.1500.72",
+      "webStorageEnabled": true
+   }
+}
+
+[2.190][FINE]:      Command received (/session/d5fa08a3b13710a0b267acc53eb5d42d/url) with params {
+   "url": "http://www.syntelinc.com"
+}
+
+[2.190][FINER]:     Waiting for all views to stop loading...
+[2.191][FINER]:     Done waiting for all views to stop loading
+[12.512][FINER]:    Waiting for all views to stop loading...
+[12.513][FINER]:    Done waiting for all views to stop loading
+[12.513][FINE]:     Command finished (/session/d5fa08a3b13710a0b267acc53eb5d42d/url) with response {
+   "sessionId": "d5fa08a3b13710a0b267acc53eb5d42d",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[12.521][FINE]:     Command received (/session/d5fa08a3b13710a0b267acc53eb5d42d/title)
+[12.521][FINER]:    Waiting for all views to stop loading...
+[12.522][FINER]:    Done waiting for all views to stop loading
+[12.528][FINER]:    Waiting for all views to stop loading...
+[12.529][FINER]:    Done waiting for all views to stop loading
+[12.529][FINE]:     Command finished (/session/d5fa08a3b13710a0b267acc53eb5d42d/title) with response {
+   "sessionId": "d5fa08a3b13710a0b267acc53eb5d42d",
+   "status": 0,
+   "value": "Syntel - IT Consulting | IT Outsourcing Services | BPO/KPO | Enterprise Solutions"
+}
+
+[12.535][FINE]:     Command received (/session/d5fa08a3b13710a0b267acc53eb5d42d)
+[14.126][INFO]:     Chrome shutdown
